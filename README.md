@@ -3,7 +3,7 @@
 </div>
 <p align='center'>
     <a href="https://www.linkedin.com/in/wen-chien-juan/"><img height="30" src="./asserts/linkedin.png"></a>
-    <a href="instagram.com/kobe970219"><img height="30" src="./asserts/instagram.jpeg"></a>
+    <a href="https://www.instagram.com/kobe970219"><img height="30" src="./asserts/instagram.jpeg"></a>
     <a href="https://www.facebook.com/profile.php?id=100002012199354"><img height="30" src="./asserts/fb_icon_325x325.png"></a>
 </p>
 <hr>
