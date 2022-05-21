@@ -8,7 +8,7 @@
 </p>
 <hr>
 <h1>👉 About me</h1>
-I am fresh graduate. Ready for my first job, Data Engineer in Financial Industry. Now I'm working hard to become a data scientist. 👨‍🔬
+I am fresh graduate. Ready for my first job, Data Engineer in Financial Industry. 👨‍🔬
 
 <h2>🎖 Title and Experience</h2>
 <ul>
@@ -18,10 +18,9 @@ I am fresh graduate. Ready for my first job, Data Engineer in Financial Industry
 
 <h2>👨‍💻 Interested in</h2>
 <ul>
-<li>ML / DL
 <li>Data Engineering
 <li>DevOps, Kubernetes
-<li>Front-End
+<li>Full-Stack
 <li>Open Source
 </ul>
 Let's discuss together 💁‍♂️
