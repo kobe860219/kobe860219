@@ -8,10 +8,11 @@
 </p>
 <hr>
 <h1>👉 About me</h1>
-I am fresh graduate. Ready for my first job, Data Engineer in Financial Industry. 👨‍🔬
+I am Data Engineer in Financial Industry. 👨‍🔬
 
 <h2>🎖 Title and Experience</h2>
 <ul>
+<li>智能金融處系統部@玉山銀行
 <li>Apache Submarine Committer
 <li>Apache Yunikorn Developer
 </ul>
