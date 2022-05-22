@@ -8,7 +8,7 @@
 </p>
 <hr>
 <h1>👉 About me</h1>
-I am Data Engineer in Financial Industry. 👨‍🔬
+Intelligent system development engineer in Financial Industry. 
 
 <h2>🎖 Title and Experience</h2>
 <ul>
