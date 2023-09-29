@@ -8,11 +8,12 @@
 </p>
 <hr>
 <h1>👉 About me</h1>
-Intelligent system development engineer in Financial Industry. 
+Backend Enginner
 
 <h2>🎖 Title and Experience</h2>
 <ul>
-<li>智能金融處系統部@玉山銀行
+<li>Backend Engineer @ Kapito.io
+<li>智能金融處系統部 @ 玉山銀行 (2022/01 ~ 2023/06
 <li>Apache Submarine Committer
 <li>Apache Yunikorn Developer
 </ul>
