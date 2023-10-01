@@ -8,7 +8,7 @@
 </p>
 <hr>
 <h1>👉 About me</h1>
-Backend Enginner
+Backend Enginner @ Hsinchu, Taiwan
 
 <h2>🎖 Title and Experience</h2>
 <ul>
