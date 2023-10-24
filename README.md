@@ -12,7 +12,7 @@ Backend Enginner @ Hsinchu, Taiwan
 
 <h2>🎖 Title and Experience</h2>
 <ul>
-<li>Backend Engineer @ Kapito.io (2023/06 ~
+<li>Backend Engineer @ Kapito.io (2023/06 ~ now
 <li>智能金融處系統部 @ 玉山銀行 (2022/01 ~ 2023/06
 <li>Apache Submarine Committer
 <li>Apache Yunikorn Developer
