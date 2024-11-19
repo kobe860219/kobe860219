@@ -25,4 +25,4 @@ Backend Enginner @ Hsinchu, Taiwan
 <li>Full-Stack
 <li>Open Source
 </ul>
-Let's get discussion together 💁‍♂️
+Let's get discussion and work together 💁‍♂️
